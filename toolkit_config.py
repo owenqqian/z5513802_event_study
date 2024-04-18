@@ -5,4 +5,4 @@ Project configuration file
 import os
 
 PRJDIR = '/Users/qiuqian/PycharmProjects/toolkit'
-DATADIR = os.path.join(PRJDIR, 'data')
+DATADIR = os.path.join(PRJDIR, 'project2/data')
